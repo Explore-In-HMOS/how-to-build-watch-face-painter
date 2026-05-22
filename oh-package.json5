@@ -1,0 +1,8 @@
+{
+  "modelVersion": "6.0.1",
+  "description": "Watch Face Painter wearable codelab built around ArkGraphics2D primitives.",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
